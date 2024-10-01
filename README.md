@@ -167,3 +167,6 @@ jobs:
 - try to make changes in jsp file of source code, and check if those changes are automatically applied in final output.
 
 ![image](https://github.com/user-attachments/assets/3eff75c9-d698-414f-8cb8-316845d7e39e)
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/19bc09c9-9250-4963-8a5c-3aea1c78375c">
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/30b6a351-7555-4401-80ae-d2f585500fb4">
