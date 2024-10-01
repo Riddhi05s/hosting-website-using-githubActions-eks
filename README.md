@@ -7,6 +7,11 @@ Test33
 - Create Developer-server and create local git repository
 - Create Github Repository
 - Create Access-Secret key for AWS policies
+
+![image](https://github.com/user-attachments/assets/840a25cc-5620-4db2-8fee-8bfc49f429ea)
+
+
+  
 - Create eks-server and install kubectl and eksctl
 
 ```bash
