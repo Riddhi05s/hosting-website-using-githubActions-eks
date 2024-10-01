@@ -3,7 +3,7 @@ registration-app
 Test33
 
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 - Create Developer-server and create local git repository
 - Create Github Repository
 - Create Access-Secret key for AWS policies
@@ -11,6 +11,8 @@ Test33
 ![image](https://github.com/user-attachments/assets/840a25cc-5620-4db2-8fee-8bfc49f429ea)
 
 ![image](https://github.com/user-attachments/assets/2bc94716-b688-43b9-ac1b-d91428e1f9c6)
+
+<img width="634" alt="image" src="https://github.com/user-attachments/assets/2bf9451c-f7c8-4324-b77f-3f071719911f">
 
  
 - Create eks-server and install kubectl and eksctl
