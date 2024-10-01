@@ -165,3 +165,5 @@ jobs:
 ```
 - In EKS server *kubectl get svc* you'll get external IP for service. View that IP with 8080 port and /webapp extension
 - try to make changes in jsp file of source code, and check if those changes are automatically applied in final output.
+
+![image](https://github.com/user-attachments/assets/3eff75c9-d698-414f-8cb8-316845d7e39e)
