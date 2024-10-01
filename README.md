@@ -18,6 +18,7 @@ Test33
 ![image](https://github.com/user-attachments/assets/5032f7c5-5e8d-496c-9a7d-d37b583da7a6)
 ![image](https://github.com/user-attachments/assets/d85fb5e1-21e2-4238-8ba4-8baf4cffdf9a)
 ![image](https://github.com/user-attachments/assets/7af9ea77-c75c-4426-a9dd-e691c1a3390a)
+![image](https://github.com/user-attachments/assets/97cdb408-94e5-4193-bca0-e9cee79b20c8)
 
  
 - Create eks-server and install kubectl and eksctl
